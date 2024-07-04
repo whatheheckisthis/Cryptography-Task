@@ -83,6 +83,6 @@ docker service create --replicas 2 --name example-com --publish published=8000,t
 # TODO
 
 * Instead of AWS ECS, this setup uses portainer.io or other docker swarm manager.
-* Autoscaling is not possible with current architecture, needs ECS.
+* Autoscaling is not possible with the current architecture, needs ECS.
 * Improve documentation.
 * Documentation for EFS issues and workaround using syncthing. 
