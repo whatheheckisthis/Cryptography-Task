@@ -1,8 +1,6 @@
 # Description
 
-DIY AWS Lambda for PHP applications!
-
-Docker image containing Ubuntu 22.04 LTS core with Apache 2.4 and PHP 8.1. This image is designed to be used in AWS environments for high density PHP application hosting. WordPress 5.x and Drupal 7.x are tested to work.
+This Docker image is built using Ubuntu 22.04 LTS core and includes Apache 2.4 and PHP 8.1. It is optimized for secure deployment in AWS environments and designed for hosting high-density PHP applications. The image is verified to be compatible with WordPress 5.x and Drupal 7. x, ensuring a secure and efficient hosting solution for these popular CMS platforms.
 
 # Architecture Overview
 
