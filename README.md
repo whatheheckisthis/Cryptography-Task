@@ -6,11 +6,10 @@ In a cybersecurity context, the Docker image described can be rephrased and expl
 
 ---
 
-### Cybersecurity-Oriented Description of Docker Image
+### Docker Image
 
 This Docker image is built using **Ubuntu 22.04 LTS** core and includes **Apache 2.4** and **PHP 8.1**. It is optimized for secure deployment in **AWS environments** and designed for hosting **high-density PHP applications**. The image is verified to be compatible with **WordPress 5.x** and **Drupal 7.x**, ensuring a secure and efficient hosting solution for these popular CMS platforms.
 
-### Detailed Explanation with Security Focus
 
 1. **Docker Image**: A Docker image is a secure, encapsulated software package containing all the essential components to run an application, including code, runtime, libraries, and system tools. In a cybersecurity context, Docker images help isolate applications, minimizing attack surfaces.
 
